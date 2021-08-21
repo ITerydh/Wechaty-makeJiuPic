@@ -15,7 +15,7 @@
 
 ## 视频观赏
 
->视频地址：[https://www.bilibili.com/video/BV1eo4y1U7Pd/](https://www.bilibili.com/video/BV1eo4y1U7Pd/)
+>视频地址：[https://www.bilibili.com/video/BV1Cf4y1P7Kc/](https://www.bilibili.com/video/BV1Cf4y1P7Kc/)
 
 wechaty的安装不再讲解，请看上期：     
 >[AI创造营]Wechaty实用小工具---证件照助手    
